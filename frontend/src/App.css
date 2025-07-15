@@ -1,0 +1,24 @@
+.url-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.copy-btn, .delete-btn {
+  padding: 5px 10px;
+  font-size: 0.8rem;
+}
+
+.copy-btn {
+  background: #28a745;
+}
+
+.delete-btn {
+  background: #dc3545;
+}
+
+.url-stats {
+  font-size: 0.9rem;
+  color: #666;
+}
