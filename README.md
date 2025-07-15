@@ -11,31 +11,31 @@ MongoDB storage for persistent data
 
 # 2) Tech Stack
 Backend:
-Node.js
-Express
+Node.js,
+Express and
 MongoDB/Mongoose
 
 Frontend:
-React
+React and
 Axios
 
 # 3) Setup Instructions
 Prerequisites
-Node.js (v16+)
-MongoDB (local or Atlas)
+Node.js (v16+),
+MongoDB (local or Atlas) and
 Git
 
 # Installation
 git clone your_repo
 # Install backend dependencies
-cd backend
+cd backend, 
 npm install
 # Install frontend dependencies
-cd ../frontend
+cd ../frontend, 
 npm install
 
 Configuration
-Create .env files:
+Create .env files
 
 # 4) Running the Application
 npm start
@@ -48,7 +48,7 @@ Endpoint	     Method	Description
 /api/:code	     DELETE	Remove short URL
 
 # GitHub Setup Instructions
-Finalize Your Branch
-Add Commits
+Finalize Your Branch,
+Add Commits and
 Push it
 
